@@ -1,4 +1,4 @@
-# jogo-da-forca
+# Jogo da Forca
 Jogo da forca desenvolvido em Java. 
 
 ## Versão 1.0
